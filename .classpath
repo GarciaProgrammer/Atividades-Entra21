@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Exercicio IF e ELSE/src"/>
+	<classpathentry kind="src" path="Vetor/src"/>
+	<classpathentry kind="output" path="Exercicio IF e ELSE/bin"/>
+</classpath>
